@@ -59,10 +59,7 @@ This project features a responsive website UI, built with **React.js** and style
 ![Screenshot](./images/Subscribe.png)
 ![Screenshot](./images/Footer.png)
 
-- **Live Demo link** - https://vercel.com/souravanand-16s-projects/assingment-7kd4
-
-
-- **Backup Demo link** - https://assingment-roan.vercel.app/
+- **Live Demo link** - https://assingment-roan.vercel.app/
 
 
 ## Credits
