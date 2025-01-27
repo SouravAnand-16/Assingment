@@ -1,0 +1,48 @@
+body{
+    overflow-x: hidden;
+    max-width: 100vw;
+    position: relative;
+}
+.banner{
+    background-image: url('./assets/banner-bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: linear-gradient(113.91deg, #FFFFFF 8%, rgba(255, 240, 220, 0.67) 28%, rgba(237, 246, 255, 0.7) 36%);
+
+}
+
+.brands .logos img{
+    width: 120px;
+}
+
+.services{
+    background-color: #FAFAFA;
+}
+.swiper{
+    overflow: visible !important;
+}
+.testimonial .swiper .swiper-button-next {
+    position: absolute;
+    top: -30px;
+    background-color: white;
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+    z-index: 100;
+}
+.testimonial .swiper .swiper-button-prev {
+    position: absolute;
+    top: -30px;
+    left: auto;
+    right: 60px;
+    background-color: white;
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+    z-index: 100;
+}
+.testimonial .swiper .swiper-button-next::after,.testimonial .swiper .swiper-button-prev::after{
+    font-size: 16px;
+    font-weight: bold;
+}
