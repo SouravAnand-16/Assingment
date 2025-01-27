@@ -80,7 +80,11 @@ function Footer() {
           </button>
         </div>
 
+<<<<<<< HEAD
           <p className="text-[rgba(170,181,205,1)] text-m font-medium leading-6 tracking-[ -0.01em] text-left underline-position-from-font decoration-skip-ink-none">&copy; 2024 Registerkaro. All Rights Reserved.</p>
+=======
+          <p className="text-[rgba(170,181,205,1)] text-m font-medium leading-6 tracking-[ -0.01em] text-cemter underline-position-from-font decoration-skip-ink-none">&copy; 2024 Registerkaro. All Rights Reserved.</p>
+>>>>>>> master
         </div>
       </section>
     </>

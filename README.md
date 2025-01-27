@@ -1,6 +1,6 @@
-# Website UI Built with React.js and Tailwind CSS
+# Landing page using figma
 
-This project is a fully responsive website UI developed using **React.js** and **Tailwind CSS**. It includes dynamic elements like a testimonial slider powered by **Swiper.js** and icons integrated through the **React Icons** library.
+This project is a fully responsive website UI developed using **React.js** and **Tailwind CSS**.
 
 ## Features
 
@@ -9,30 +9,32 @@ This project is a fully responsive website UI developed using **React.js** and *
 - **Icons**: Enhanced visuals using the React Icons library.
 - **Clean and Modern UI**: Designed with a focus on user experience and aesthetics.
 
-## Technologies Used
+## Tech stack
 
 - **React.js**: For building the user interface.
 - **Tailwind CSS**: For styling and layout.
-- **Swiper.js**: For the testimonial slider.
-- **React Icons**: For adding visually appealing icons.
+- **javascript**: For scripting
 
 ## Installation
 
-Follow these steps to run the project locally:
-
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pankaj1330/RegisterKaro.git
    ```
 2. Navigate into the project directory:
    ```bash
-   cd RegisterKaro
+   cd Assingment
    ```
 3. Install dependencies:
    ```bash
    npm install
    ```
-4. Start the development server:
+
+3. Add script:
+   ```bash
+   script: "vite"
+   ```
+
+5. Start the development server:
    ```bash
    npm start
    ```
@@ -40,29 +42,46 @@ Follow these steps to run the project locally:
 ## How to Use
 
 - Clone the repository and run the application as per the installation steps.
-- Customize the components or styling to fit your needs.
 
 ## Screenshots
 
-Include screenshots here to showcase the UI:
-- Home Page
-![Screenshot 2025-01-22 235730](https://github.com/user-attachments/assets/d1630c13-9b8c-4f5e-a0e8-937b90ee672b)
+Home Page : 
+![Screenshot](./images/Home.png)
 
-- Testimonial slider
-![Screenshot 2025-01-22 235815](https://github.com/user-attachments/assets/c0663a71-48dd-4747-9964-8c0d0fce0f7c)
+Services:
+![Screenshot](./images/Services.png)
 
-- More
-![Screenshot 2025-01-22 235838](https://github.com/user-attachments/assets/f53c0906-8e04-4a3e-af5a-3a039c84d1bd)
+About:
+![Screenshot](./images/About.png)
 
-## Live Link
+Why us:
+![Screenshot](./images/Why.png)
 
-- **Assignment link** - https://register-karo-ten.vercel.app/
+Video:
+![Screenshot](./images/Video.png)
+
+Client:
+![Screenshot](./images/Client.png)
+
+Blog:
+![Screenshot](./images/Blog.png)
+![Screenshot](./images/PeopleSyas.png)
+
+FAQ:
+![Screenshot](./images/FAQ.png)
+
+Subscribe:
+![Screenshot](./images/Subscribe.png)
+
+Footer:
+![Screenshot](./images/Footer.png)
+
+
+- **Live Demo link** - https://assingment-roan.vercel.app/
 
 ## Credits
 
 This project was built as part of an assignment for **RegisterKaro**. Thanks to:
 - [React.js](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Swiper.js](https://swiperjs.com/)
-- [React Icons](https://react-icons.github.io/react-icons/)
 
